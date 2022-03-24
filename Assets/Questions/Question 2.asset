@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 2
   m_EditorClassIdentifier: 
   question: How would you describe a perfect day for you?
+  answers:
+  - Pork
+  - Rope
+  - Water
+  - Knee
+  correctAnswerIndex: 0

@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 4
   m_EditorClassIdentifier: 
   question: Do you celebrate holidays?
+  answers:
+  - Brake
+  - Lid
+  - Powder
+  - Beetle
+  correctAnswerIndex: 0
